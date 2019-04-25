@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1923 422.09">
+  <path d="M1075.09,238.21a1.34,1.34,0,0,1-.32-.74c-.15-.5-1.85.19-2.07.39-1.24,1.13,2.15,2.16,2.83,2.35a29.92,29.92,0,0,0,9.38.78c3.53-.18,11.52-.88,11.68-5.78,0-.29-2.16,0-2.18.58-.15,4.77-8.15,4.51-11.5,4.37-.44,0-9.34-1.5-8.25-2.49l-2.07.39a1.38,1.38,0,0,0,.32.73c.34.51,2.33-.35,2.18-.58Z" fill="#231815"/>
+  <g>
+    <g>
+      <rect x="-0.5" y="111.92" width="1922.57" height="310.17" fill="#b3b3b3"/>
+      <path d="M668,187.79H-.5V2.11H323.36A412.6,412.6,0,0,1,668,187.79Z" fill="#b3b3b3"/>
+      <path d="M695.49,149l-26-1.24a35.27,35.27,0,0,0-37,35.24V345H1312a39.51,39.51,0,0,0,39.5-39.5V149Z" fill="#e6e6e6"/>
+      <path d="M-.5,53.64H307.61A254,254,0,0,1,418,78.86h0A254.07,254.07,0,0,1,561.68,307.7v46.49H-.5Z" fill="#e6e6e6"/>
+    </g>
+    <polyline points="716.1 346.1 688.24 346.31 660.37 345.56 632.67 345.8 632.04 322.31 632.06 298.63 632.48 274.94 632.35 251.25 633.01 227.56 632.22 203.87 632.33 180.18 640.96 157.73 662.73 147.94 687.87 147.73 713 147.98 738.14 148.21 763.28 148.39 788.42 147.29 813.56 147.27 838.69 148.06 863.83 147.51 888.97 148.57 914.11 147.61 939.25 147.82 964.39 148.59 989.53 147.28 1014.67 147.43 1039.81 148.72 1064.95 148.77 1090.1 147.92 1115.23 147.63 1140.37 147.49 1165.51 147.96 1190.66 148.07 1215.8 147.53 1240.94 147.5 1266.09 147.88 1291.24 148.6 1316.39 147.72" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.1"/>
+    <polyline points="1350.76 169.29 1351.05 192.49 1351.85 215.69 1351.48 238.89 1351.92 262.09 1351.59 285.29 1351.06 308.49 1341.29 334.35 1316.27 346.76 1291.98 345.85 1267.7 345.49 1243.42 346.41 1219.14 346.51 1194.86 345.91 1170.57 346.15 1146.29 346.46 1122 346.15 1097.72 346.1 1073.43 345.39 1049.15 346.38 1024.87 345.39 1000.58 345.28 976.3 346.28 952.02 345.31 927.73 346.75 903.45 345.67 879.16 345.44 854.87 346.43 830.58 345.35 806.29 345.97 782 346.51" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.1"/>
+    <path d="M1396,289.11a10.61,10.61,0,1,1,10.61-10.61" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <circle cx="1440" cy="278.5" r="10.61" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <polygon points="1446.5 175.4 1418 176.05 1389.5 176.33 1385.46 172 1385.13 172 1389.5 168.23 1418 167.62 1446.5 168.43 1450.05 172 1450.07 172 1446.5 175.4" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <polygon points="1446.5 198.8 1418 199 1389.5 198.47 1385.99 194.33 1385.98 194.33 1389.5 190.67 1418 190.46 1446.5 190.2 1450.01 194.33 1450.18 194.33 1446.5 198.8" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <polygon points="1446.5 221.27 1418 220.5 1389.5 220.33 1384.89 216.67 1385.95 216.67 1389.5 213.37 1418 212.11 1446.5 212.34 1451.04 216.67 1450.86 216.67 1446.5 221.27" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <polygon points="1446.5 242.38 1418 242.32 1389.5 242.88 1385.02 239 1385.36 239 1389.5 234.36 1418 234.75 1446.5 235.03 1450.43 239 1450.73 239 1446.5 242.38" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <polyline points="1490.58 139.18 1502.78 163.8 1516.53 187.57 1530.4 211.28" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <polyline points="1532.16 243.5 1532.15 269.17 1532.68 294.83 1532.08 320.5 1531.82 346.16 1531.36 371.83 1531.27 397.5" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <polyline points="1605.5 256.96 1629.11 257.07 1652.72 256.54 1676.33 256.52 1699.94 256.88 1723.55 257.58 1747.16 256.73 1770.77 257.72 1794.38 257.33 1817.99 257.69 1841.6 257.31 1865.2 256.62 1888.81 256.53 1912.43 257.59 1936.04 257.59 1959.65 256.49 1983.27 257.71 2006.88 257.16 2030.5 256.29" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <polyline points="1606.05 286 1604.8 311.8 1604.76 337.6 1605.58 363.39 1605.86 389.2 1606 415" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <polygon points="1858.5 320.05 1836 320.26 1813.5 320.02 1791 319.8 1768.5 319.62 1756.81 309 1756.79 309 1768.5 298.06 1791 297.53 1813.5 298.56 1836 297.62 1858.5 297.83 1868.93 309 1870.2 309 1858.5 320.05" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <polyline points="1767.5 309.5 1792.5 308.73 1817.5 308.84 1842.5 308.92" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line x1="1853.5" y1="308.98" x2="1869.5" y2="308.85" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path d="M-11.5,2H309.08a494.3,494.3,0,0,1,136,18.88c20,5.74,39.6,12.55,53.43,20.12" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <line x1="543.5" y1="65" x2="599.5" y2="112" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <line x1="667.5" y1="112" x2="1553.5" y2="112" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path d="M-17.5,54H302.72c62.95,0,124.32,21,173.18,60.74,30.15,24.49,56.73,56.51,64.6,96.26" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path d="M549.5,243s14,73,5,111H90.5" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path d="M323.63,259.71a72.18,72.18,0,0,0-8.11,33.35" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path d="M460.5,293.06A72.49,72.49,0,0,0,335,243.67" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <circle cx="386.73" cy="271.79" r="2.62" fill="#231815"/>
+    <path d="M389.36,266.83l-14.62-14.27L381.12,272a8.31,8.31,0,0,0,7.8,5.7h0a2.32,2.32,0,0,0,2.12-1.32h0a8.28,8.28,0,0,0-.44-8A8.44,8.44,0,0,0,389.36,266.83Z" fill="#231815"/>
+    <path d="M411.14,295.77v5.75a3.89,3.89,0,0,1-3.89,3.88H367.37a3.88,3.88,0,0,1-3.88-3.88v-8.89a3.88,3.88,0,0,1,3.88-3.88h31.92" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line x1="386.89" y1="220.57" x2="386.89" y2="232.77" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line x1="429.17" y1="233.38" x2="419.93" y2="243.41" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line x1="441.21" y1="264.23" x2="452.39" y2="259.71" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line x1="347.31" y1="233.38" x2="356.55" y2="243.41" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line x1="335.27" y1="264.23" x2="324.09" y2="259.71" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <polygon points="258 299.5 -16 299.5 -16 183.5 259 183.5 289 233.5 258 299.5" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line x1="327" y1="183.5" x2="384" y2="183.5" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line x1="405" y1="183.5" x2="441" y2="183.5" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line x1="66.2" y1="161.5" x2="28.5" y2="161.5" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.9"/>
+    <path d="M13.5,112H427.06c4.94,0,8.94,4.4,8.94,9.83v29.84c0,5.43-4,9.83-8.94,9.83H92.5" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.05"/>
+    <line x1="26" y1="256.85" x2="26" y2="272.06" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.07"/>
+    <line x1="46.1" y1="256.85" x2="46.1" y2="272.06" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.07"/>
+    <line x1="66.2" y1="256.85" x2="66.2" y2="272.06" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.07"/>
+    <line x1="86.3" y1="256.85" x2="86.3" y2="272.06" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.07"/>
+    <line x1="106.4" y1="256.85" x2="106.4" y2="272.06" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.07"/>
+    <line x1="126.5" y1="256.85" x2="126.5" y2="272.06" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.07"/>
+    <line x1="146.6" y1="256.85" x2="146.6" y2="272.06" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.07"/>
+    <line x1="166.7" y1="256.85" x2="166.7" y2="272.06" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.07"/>
+    <line x1="186.8" y1="256.85" x2="186.8" y2="272.06" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.07"/>
+    <line x1="206.9" y1="256.85" x2="206.9" y2="272.06" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.07"/>
+    <line x1="227" y1="256.85" x2="227" y2="272.06" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.07"/>
+    <path d="M-11,222.5c24.4,0,24.4,20,48.8,20s24.4-20,48.8-20,24.39,20,48.79,20,24.4-20,48.81-20,24.4,20,48.8,20" fill="none" stroke="#231815" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.9"/>
+    <g>
+      <path d="M32.64,144.94h10a1.46,1.46,0,0,1,0,2.92h-13v-9.51c0-2.18,1.11-3.29,3.3-3.29h8.19v-7h-10a1.46,1.46,0,0,1,0-2.92h9.68a3,3,0,0,1,3.27,3.41v6A3,3,0,0,1,40.86,138H32.64Z"/>
+      <path d="M62.21,125.17a2.93,2.93,0,0,1,2.92,2.92v16.85a2.87,2.87,0,0,1-2.92,2.92H53.64a2.87,2.87,0,0,1-2.92-2.92V128.09a2.92,2.92,0,0,1,2.92-2.92Zm0,19.77V128.09H53.64v16.85Z"/>
+      <path d="M73.18,128.09a1.46,1.46,0,0,1,0-2.92h10a2.86,2.86,0,0,1,2.92,2.92v5.6A3.41,3.41,0,0,1,85,136.52a3.37,3.37,0,0,1,1.14,2.82v5.6a2.86,2.86,0,0,1-2.92,2.92h-10a1.46,1.46,0,1,1,0-2.92h10V140.1c0-1.63-.64-2.13-1.46-2.13H76a1.46,1.46,0,1,1,0-2.91h5.71c.82,0,1.46-.5,1.46-2.13v-4.84Z"/>
+      <path d="M104.21,125.17a2.93,2.93,0,0,1,2.92,2.92v16.85a2.87,2.87,0,0,1-2.92,2.92H95.64a2.87,2.87,0,0,1-2.92-2.92V128.09a2.92,2.92,0,0,1,2.92-2.92Zm0,19.77V128.09H95.64v16.85Z"/>
+    </g>
+    <text transform="translate(1043.2 194.01) rotate(0.04) scale(0.98 1)" font-size="21" font-family="'LantingHei TC', 'Microsoft Jhenghei', sans-serif" letter-spacing="0.05em">老人人口上升183萬(+53%)</text>
+    <text transform="translate(1039.15 260.06) rotate(0.04) scale(0.98 1)" font-size="21" font-family="'LantingHei TC', 'Microsoft Jhenghei', sans-serif" letter-spacing="0.05em">勞動人口減少161萬(-10%)</text>
+    <text transform="translate(1039.52 321.07) rotate(0.04) scale(0.98 1)" font-size="21" font-family="'LantingHei TC', 'Microsoft Jhenghei', sans-serif" letter-spacing="0.05em">幼年人口減少27萬(-9%)</text>
+    <polyline points="866.17 313 751.39 313 751.39 291.59 866.17 291.59" fill="#999" stroke="#000" stroke-miterlimit="10" stroke-width="2.22"/>
+    <polyline points="998.5 291.59 751.09 291.59 751.09 213.1 998.5 213.1" fill="#999" stroke="#000" stroke-miterlimit="10" stroke-width="2.27"/>
+    <rect x="751.39" y="176" width="76.47" height="37.1" fill="#999" stroke="#000" stroke-miterlimit="10" stroke-width="2.27"/>
+    <rect x="828.17" y="176" width="38.46" height="37.1" fill="#f6e105" stroke="#000" stroke-miterlimit="10" stroke-width="2.57"/>
+    <line x1="718.5" y1="212.99" x2="1314.5" y2="212.99" fill="none" stroke="gray" stroke-miterlimit="10" stroke-width="1.94"/>
+    <line x1="718.5" y1="291.79" x2="1314.5" y2="291.79" fill="none" stroke="gray" stroke-miterlimit="10" stroke-width="1.94"/>
+    <text transform="translate(674.38 284.6) scale(0.98 1)" font-size="15.83" font-family="'LantingHei TC', 'Microsoft Jhenghei', sans-serif" letter-spacing="0.05em">15歲</text>
+    <text transform="translate(674.38 189.6) scale(0.98 1)" font-size="15.83" font-family="'LantingHei TC', 'Microsoft Jhenghei', sans-serif" letter-spacing="0.05em">65歲</text>
+    <g>
+      <rect x="984.1" y="212.99" width="14.4" height="78.8" fill="#fff"/>
+      <g>
+        <polyline points="998.5 289.84 998.5 291.79 996.55 291.79" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.94"/>
+        <line x1="993.05" y1="291.79" x2="987.8" y2="291.79" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.94" stroke-dasharray="3.5 3.5"/>
+        <polyline points="986.05 291.79 984.1 291.79 984.1 289.84" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.94"/>
+        <line x1="984.1" y1="285.9" x2="984.1" y2="216.91" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.94" stroke-dasharray="3.94 3.94"/>
+        <polyline points="984.1 214.94 984.1 212.99 986.05 212.99" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.94"/>
+        <line x1="989.55" y1="212.99" x2="994.8" y2="212.99" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.94" stroke-dasharray="3.5 3.5"/>
+        <polyline points="996.55 212.99 998.5 212.99 998.5 214.94" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.94"/>
+        <line x1="998.5" y1="218.88" x2="998.5" y2="287.87" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.94" stroke-dasharray="3.94 3.94"/>
+      </g>
+    </g>
+    <rect x="850.67" y="292.6" width="15.51" height="20.1" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="2.02" stroke-dasharray="4.05"/>
+    <text transform="translate(129.42 144.5) rotate(0.04) scale(0.98 1)" font-size="22" font-family="'LantingHei TC', 'Microsoft Jhenghei', sans-serif" letter-spacing="0.05em">十年後台灣社會的人口結構</text>
+  </g>
+</svg>
